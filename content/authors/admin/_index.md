@@ -1,5 +1,5 @@
 ---
-role: PhD Student, Laval University
+role: PhD Student
 bio: ""
 interests:
   - Artificial Intelligence
@@ -22,8 +22,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Laval University
+    url: https://www.fss.ulaval.ca/anthropologie/recherche/doctorants-stagiaires-postdoctoraux/benjamin-malo
 education:
   courses:
     - course: PhD in Artificial Intelligence
