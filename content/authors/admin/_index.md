@@ -1,7 +1,6 @@
 ---
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: PhD Student, Laval University
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -38,7 +37,7 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Benjamin Malo
 email: ""
 ---
 XXXXXXXXXXXXXXXXXXXXXXNelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
