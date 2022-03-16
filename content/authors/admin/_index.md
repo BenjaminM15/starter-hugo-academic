@@ -11,9 +11,9 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: benjamin.malo@crchudequebec.ulaval.ca
+    link: mailto:benjamin.malo@crchudequebec.ulaval.ca
     display:
-      header: true
+      header: false
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=QPnNIQMAAAAJ&hl=fr
