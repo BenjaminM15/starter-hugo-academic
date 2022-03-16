@@ -1,6 +1,6 @@
 ---
 role: PhD Student | Research Officer
-avatar_filename: 176156920_3873967282671472_3380076752651064404_n.jpg
+avatar_filename: avatar.jpg.jpg
 bio: ""
 interests:
   - Vaccination
