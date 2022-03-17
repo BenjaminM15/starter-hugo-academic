@@ -7,8 +7,8 @@
 
 appearance:
   theme_day: mr robot
-  theme_night: 
-  font: rose
+  theme_night: mr robot
+  font: mr robot
   font_size: L
 
 # SEO
