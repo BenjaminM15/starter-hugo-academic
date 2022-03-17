@@ -5,9 +5,9 @@
 
 # Appearance
 
-appearance:
+appearance: mr robot
   theme_day: minimal
-  theme_night: minimal
+  theme_night:
   font: rose
   font_size: L
 
